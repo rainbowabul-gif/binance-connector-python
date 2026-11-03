@@ -1,4 +1,7 @@
-# Binance Python Connectors
+# Binance Python Connectors to receive tokens Binance exchange id no : "1131025389 - MD ABUL HOSSAIN - rain.bow.abul@gmail.com - {BNB,USDT, USDC,USDe (BNB smart chain),BTC   : 0x5def0f0d82b813981df2418229bb6bcf93d74321
+USDT (ETH) : 0x016700E127fA8a71b4Aa8936d9E6Fa078f8d56E0} - {ai- agent - Beerain.ai - ai-api-key - USDT, BNB, USDC, USDe ETH, sol 
+0x41226e91c484fe82AFd12Deb171e1DfB29e14555
+ai-api-oudn7rvmy7pj1qyjz45atrnhmkweccdm7hhyjd9agpw1k356qxprm4hyozllbsnm}"
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/binance/binance-connector-python/ci.yaml)](https://github.com/binance/binance-connector-python/actions)
 [![Open Issues](https://img.shields.io/github/issues/binance/binance-connector-python)](https://github.com/binance/binance-connector-python/issues)
